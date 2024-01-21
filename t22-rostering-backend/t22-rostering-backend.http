@@ -1,0 +1,6 @@
+@t22_rostering_backend_HostAddress = http://localhost:5224
+
+GET {{t22_rostering_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
